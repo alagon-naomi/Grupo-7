@@ -11,3 +11,4 @@ GRUPO 7 | Lenguaje de Programación II
 - Elegir escenario
 - Diseñar e implementar dicho escenario usando POO
 - URL del repositorio en GitHub
+- Exposición netamente sobre el código
