@@ -12,3 +12,6 @@ GRUPO 7 | Lenguaje de Programación II
 - Diseñar e implementar dicho escenario usando POO
 - URL del repositorio en GitHub
 - Exposición netamente sobre el código
+
+** fecha de entrga**
+sin fecha exacta (aprox 2 semanas)
