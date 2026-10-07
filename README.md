@@ -13,5 +13,5 @@ GRUPO 7 | Lenguaje de Programación II
 - URL del repositorio en GitHub
 - Exposición netamente sobre el código
 
-** fecha de entrga**
+** fecha de entrega**
 sin fecha exacta (aprox 2 semanas)
