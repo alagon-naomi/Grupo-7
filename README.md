@@ -16,3 +16,6 @@ GRUPO 7 | Lenguaje de Programación II
 **fecha de entrega**
 -  sin fecha exacta
 -  aprox 2 semanas
+
+**Fecha exposición:**
+- martes 27 de octubre a las 4pm 
