@@ -8,3 +8,6 @@ Clases principales: Animal (clase base), Perro/Gato (clases derivadas) y Refugio
 
 Tema 3: Simular una plataforma como Spotify
 Clases principales: Canción, Playlist y Usuario
+
+Tema 4: Sistema de Tienda Online o Carrito de Compras
+Clases principales: Producto, Carrito y Pedido (o Cliente)
