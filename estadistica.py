@@ -4,6 +4,10 @@ promedio = sum(numeros) / len(numeros)
 print("El promedio es:", promedio)
 
 #agregar mediana
+import statistics
+
+mediana = statistics.median(numeros)
+print("La mediana es:", mediana)  # Resultado: 8.5
 
 #agregar moda
 
