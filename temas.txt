@@ -1,0 +1,10 @@
+SUGERENCIA DE TEMAS PARA EL PROYECTO
+
+Tema 1: Sistema de Reservas para Cine o Teatro
+Clases principales: Pelicula, Sala y Cliente
+
+Tema 2: Simulador de Adopción de Mascotas
+Clases principales: Animal (clase base), Perro/Gato (clases derivadas) y Refugio
+
+Tema 3: Simular una plataforma como Spotify
+Clases principales: Canción, Playlist y Usuario
